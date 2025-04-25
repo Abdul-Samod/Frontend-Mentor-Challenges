@@ -1,2 +1,3 @@
 # Frontend-Mentor-Challenges
-Repository for challenges and learning paths from Frontend Mentor.
+Repository for the getting started learning path on Frontend Mentor
+To design simple QR code card using HTML and CSS 
